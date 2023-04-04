@@ -1,4 +1,4 @@
-# QRCreator.py
+# QRCreator.pyw
 
 QRCreator is a simple Python script that allows you to generate QR codes from text input. The script uses the popular `qrcode` library to create QR codes and `Pillow` library to save the generated QR code as an image file.
 
